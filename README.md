@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Elenlis
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning data analysis in excel
+- 🌱 I’m currently learning data analysis in excel, Python and SQL
 - 💞️ I’m looking to collaborate on data analysis or system analysis
-- 📫 How to reach me - Telegram @elenlis
+- 📫 How to reach me - Telegram @elen_lis
 
 <!---
 Elenlis/Elenlis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
